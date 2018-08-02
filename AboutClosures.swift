@@ -5,7 +5,15 @@
 //  Created by Shubham on 02/08/18.
 //  Copyright © 2018 Shubham. All rights reserved.
 //
+
+// References 
 //https://www.programiz.com/swift-programming/closures
+//https://medium.com/ios-os-x-development/introduction-to-closures-in-swift-3-1d46dfaf8a20
+//https://docs.swift.org/swift-book/LanguageGuide/Closures.html
+//https://www.tutorialspoint.com/swift/swift_closures.htm
+
+
+
 
 // In this we are learning closures .
 
